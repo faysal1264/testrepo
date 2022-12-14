@@ -1,6 +1,6 @@
 class hello  {
            public static void main()
 	   {
-		  public static void main("hi");
+		  public static void main("hello dev1 modify");
            } 
-	}
+	   }
