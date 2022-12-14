@@ -1,1 +1,6 @@
-hello from line 1
+class hello  {
+           public static void main()
+	   {
+		  public static void main("hi");
+           } 
+	}
